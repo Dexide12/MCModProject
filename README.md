@@ -1,1 +1,1 @@
-"# MCModProject" 
+# MCModProject
